@@ -10,10 +10,9 @@ public class Menu {
                 4 - Real Brasileiro(BRL) =>> Boliviano da Bolivia(BOB);
                 5 - Peso Chileno(CLP) =>> Peso Colombiano(COP);
                 6 - Peso Colombiano(COP) =>> Peso Chileno(CLP);
-                7 - Sair(|);
-                8 - Consultar Histórico de Convesões;
+                7 - Consultar Histórico de Convesões;
+                8 - Sair ();
                 ------------------------------------------------------------------
-                Escolha a opção para qual moeda Deseja Converter:
-                """);
+                Escolha a opção para qual moeda Deseja Converter:""");
     }
 }
